@@ -1,0 +1,17 @@
+header {
+    background-color: rgb(0, 255, 255);
+}
+
+h2 {
+    background-color: rgb(12, 131, 131);
+    color: rgb(127, 255, 212);
+}
+
+h3 {
+    background-color: rgb(255, 228, 196);
+    color: rgb(200, 159, 97);
+}
+
+.info {
+    text-align: center;
+}
