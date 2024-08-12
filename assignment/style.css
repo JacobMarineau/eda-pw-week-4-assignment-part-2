@@ -1,0 +1,17 @@
+header {
+    background-color: rgba(21, 74, 26, .9);
+}
+
+h2 {
+    background-color: rgba(154, 129, 89, 0.941);
+    color: rgba(32, 78, 194, 0.929);
+}
+
+h3 {
+    background-color: rgb(43, 40, 17);
+    color: rgb(128, 215, 56);
+}
+
+.info {
+    text-align: center;
+}
