@@ -8,10 +8,11 @@ h2 {
 }
 
 h3 {
-    background-color: rgb(43, 40, 17);
-    color: rgb(128, 215, 56);
+    background-color: rgb(226, 212, 107);
+    color: rgb(56, 85, 33);
 }
 
 .info {
     text-align: center;
+    background-color: blanchedalmond;
 }
